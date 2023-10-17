@@ -19,5 +19,5 @@ Exemple :
 
 - Modifier order_buy et order_sell => %.4f coresspond à 4 chiffres apres la virgule donc modifier 4 par le nombre corespondant à votre crypto.
 
-**Remarque :** Utilisez toujours des BUSD car sur Binance, il y a des frais de transaction uniquement en ordre limit et avec des BUSD, il n'y a pas de frais.
+**Remarque :** Utilisez toujours des BUSD car sur Binance, il y a des frais de transaction mais uniquement en ordre limit et avec des BUSD, il n'y a pas de frais.
 
